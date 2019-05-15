@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93169fa4-05fb-4e1a-abb8-bd1c3809e354" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/conf/settings_production.py" beforeDir="false" afterPath="$PROJECT_DIR$/conf/settings_production.py" afterDir="false" />
-    </list>
+    <list default="true" id="93169fa4-05fb-4e1a-abb8-bd1c3809e354" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +20,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conf/settings_development.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="31" />
+            <state relative-caret-position="150">
+              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -221,12 +219,12 @@
       <workItem from="1557897008532" duration="145000" />
       <workItem from="1557897157112" duration="2307000" />
       <workItem from="1557900546551" duration="508000" />
-      <workItem from="1557901057106" duration="624000" />
+      <workItem from="1557901057106" duration="651000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3898000" />
+    <option name="totallyTimeSpent" value="3925000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -355,8 +353,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/conf/settings_development.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="31" />
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
