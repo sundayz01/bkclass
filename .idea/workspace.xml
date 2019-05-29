@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="802096f5-0493-4b9f-8174-4b33438b41da" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/config/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/prod.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/prod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/stag.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/stag.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,11 +21,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/stag.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/prod.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="22" selection-start-line="22" selection-end-line="23" />
+            <state relative-caret-position="270">
+              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -35,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -58,6 +69,8 @@
         <option value="$PROJECT_DIR$/home_application/templates/home_application/hellosunday.html" />
         <option value="$PROJECT_DIR$/home_application/urls.py" />
         <option value="$PROJECT_DIR$/config/__init__.py" />
+        <option value="$PROJECT_DIR$/config/prod.py" />
+        <option value="$PROJECT_DIR$/config/stag.py" />
       </list>
     </option>
   </component>
@@ -152,12 +165,12 @@
       <updated>1557906325997</updated>
       <workItem from="1557906327499" duration="1423000" />
       <workItem from="1559116310930" duration="293000" />
-      <workItem from="1559117562025" duration="833000" />
+      <workItem from="1559117562025" duration="1653000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2549000" />
+    <option name="totallyTimeSpent" value="3369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1020" y="160" width="1252" height="818" extended-state="0" />
@@ -216,18 +229,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/dev.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/stag.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/prod.py">
+    <entry file="file://$PROJECT_DIR$/config/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="22" selection-start-line="22" selection-end-line="23" />
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -236,10 +241,22 @@
         <state relative-caret-position="-855" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/__init__.py">
+    <entry file="file://$PROJECT_DIR$/config/prod.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="270">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/dev.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/stag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
         </state>
       </provider>
     </entry>
