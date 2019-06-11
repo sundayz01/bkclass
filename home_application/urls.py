@@ -20,4 +20,6 @@ from home_application import views
 urlpatterns = (
     url(r'^$', views.home),
     url(r'hellosunday', views.hellosunday),
+    url(r'^helloblueking', views.helloblueking),
+    url(r'sayhello', views.say_hello),
 )
