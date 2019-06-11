@@ -2,17 +2,17 @@
 
 {% block head %}
 	<title>Hello Blueking</title>
-        <link href="https://magicbox.bk.tencent.com/static_api/v3/bk/css-pro/bk.css" rel="stylesheet">
-        <link href="https://magicbox.bk.tencent.com/static_api/v3/assets/bk-icon-2.0/iconfont.css" rel="stylesheet">
+    <link href="https://magicbox.bk.tencent.com/static_api/v3/bk/css-pro/bk.css" rel="stylesheet">
+    <link href="https://magicbox.bk.tencent.com/static_api/v3/assets/bk-icon-2.0/iconfont.css" rel="stylesheet">
 	{{ block.super }}
 {% endblock %}
 
 {% block content %}
-  <h2 class="page_title">Hello Blueking </h2>
+    <h2 id="page_title">Hello Blueking </h2>
     <form class="bk-form bk-inline-form">
         <div class="bk-form-item is-required">
             <div class="bk-form-content">
-                <input type="text" class="page_input" id="bk-form-input" required="required" placeholder="Try input 'Hello Blueking' " style="width:400px;">
+                <input type="text" id="page_input" class="bk-form-input" required="required" placeholder="Try input 'Hello Blueking' " style="width:400px;">
             </div>
         </div>
         <div class="bk-form-item">
@@ -32,7 +32,7 @@
                 input.addClass("is-danger");
                 return;
             }
-            //提交输入框的内容到后台
+            // 提交输入框的内容到后台
             $.ajax({
                 url: '{{ SITE_URL }}sayhello/',
                 data: {

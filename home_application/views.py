@@ -40,7 +40,6 @@ def say_hello(request):
     """
     作业二后端逻辑验证
     """
-
     data = request.POST.get('input', None)
     data = 'Congratulations!' if data == 'Hello Blueking' else 'Try input Hello Blueking'
     res = {'data': data}
